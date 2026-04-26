@@ -1,0 +1,17 @@
+# Large ML files
+embeddings/
+saved_models/
+best_model/
+*.pt
+*.json
+results/
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
